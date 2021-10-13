@@ -8,7 +8,7 @@ We are creating an open source movement for medical technology research. No pate
 
 **In loving memory of Peter Edward Moss, 5th Aug 1939 - 24th Aug 2019, who bravely battled Acute Myeloid Leukemia. A loving husband, father, grandfather and great grandfather.**
 
-[BHH Awards page](![NOMINATED FOR BEST INNOVATIVE INITIATIVE](https://www.leukemiaairesearch.com/assets/img/awards/barcelona-health-hub-best-innovative-initiative.jpg)](https://bhhsummit.com/bhh-awards/)
+[![NOMINATED FOR BEST INNOVATIVE INITIATIVE](https://www.leukemiaairesearch.com/assets/img/awards/barcelona-health-hub-best-innovative-initiative.jpg)](https://bhhsummit.com/bhh-awards/)
 
 We are honored to have been nominated in the category of Best Innovative Initiative in the Barcelona Health Hub Awards 2021.
 
